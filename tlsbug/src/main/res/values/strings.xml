@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TLS Bug Lollipop</string>
+    <string name="instructions"><![CDATA[
+        <p>Check LogCat for Response</p>
+        <p>Check sniffer for <b>Client Hello</b> packet (look for <b>TLSv1</b> under <b>Protocol</b> column)</p>
+        <p>Expand <b>Secure Sockets Layer</b> -- <b>TLSv1 Record Layer</b> -- <b>Handshake Protocol</b> -- <b>Random</b></p>
+        <p>Examine the <b>gmt_unix_time:</b> field</p>
+        <p>In API21 and above this value is random</p>
+    ]]></string>
+</resources>
