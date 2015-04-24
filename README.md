@@ -24,3 +24,20 @@ This app simply does HTTP GETs on two github API URLs. Both the URLs use `https:
 ###Disclaimer
 
 This repo is meant to provide the bare minimum code to reproduce the issue. As such, several shortucts might have been taken. Best practices might have been flouted. It is not advised to reuse any of this code or treat it as a sample for how to make HTTPS requests etc.
+
+
+###License
+
+	Copyright 2015 Kiran Rao
+
+	Licensed under the Apache License, Version 2.0 (the "License");
+	you may not use this file except in compliance with the License.
+	You may obtain a copy of the License at
+
+	   http://www.apache.org/licenses/LICENSE-2.0
+
+	Unless required by applicable law or agreed to in writing, software
+	distributed under the License is distributed on an "AS IS" BASIS,
+	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+	See the License for the specific language governing permissions and
+	limitations under the License.
